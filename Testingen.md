@@ -3,11 +3,14 @@
 
 ## Preis-/Qualitätsänderung
 | Qualität: -1 | Preis (Handel): 1 | Preis (Handwerk): 1 |
+|--------------|-------------------|---------------------|
+| Qualität: -1 | Preis (Handel): 1 | Preis (Handwerk): 1 |
 
 ## Tempel
-| Anzahl und Art der Tempel siehe "Land des Schwarzen Auges" |  |  |
+Anzahl und Art der Tempel siehe "Land des Schwarzen Auges"
 
 ## Gasthäuser/Hotels
+
 | Gasthaus/Hotel  mit Übernachtungsmöglichkeit | solide, sauber | billig (85% des Normalpreises) |
 | Gasthaus/Hotel  mit Übernachtungsmöglichkeit | solide, sauber | durchschnittlich (Normalpreise) |
 | Gasthaus/Hotel  mit Übernachtungsmöglichkeit | einfach, fraglich | durchschnittlich (Normalpreise) |
